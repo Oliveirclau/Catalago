@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be00e721-76b1-49f6-be7c-a549a6ac15dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catalago.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/ada/nuclea/Ator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/ada/nuclea/Diretor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/ada/nuclea/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/ada/nuclea/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/ada/nuclea/SistemaGerenciamento.java" afterDir="false" />
-    </list>
+    <list default="true" id="be00e721-76b1-49f6-be7c-a549a6ac15dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +19,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Oliveirclau"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b6f8ac02-fb5b-4168-a3b3-977a4dc7a8ae" />
+        <option name="url" value="https://github.com/Oliveirclau/Catalago.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -52,6 +56,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701819146186</updated>
-      <workItem from="1701819147255" duration="1685000" />
+      <workItem from="1701819147255" duration="4260000" />
     </task>
     <servers />
   </component>
